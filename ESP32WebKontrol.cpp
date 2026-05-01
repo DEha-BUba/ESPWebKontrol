@@ -3,8 +3,8 @@
 #include <ESPAsyncWebServer.h>
 
 // WiFi bilgileri (KENDI BILGILERINIZI GIRIN)
-const char* ssid = "SUPERONLINE-WiFi_3516";
-const char* password = "AFL7CEPKETPF";
+const char* ssid = "YOUR SSID";
+const char* password = "YOUR PASSWORD";
 
 const int ledPin = 2;
 bool ledState = false;
